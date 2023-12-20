@@ -6,7 +6,7 @@
    - Add `UIT-VSMEC` dataset to `kaggle/input`.
    - Add embeddings to `kaggle/input` as a dataset with this link: `https://public.vinai.io/word2vec_vi_words_300dims.zip`.
    - Add `RNN.pth` to `kaggle/input` for pretrained weights.
-   - Set `pretrained_path`, `train_data`, `valid_data`, `test_data`, `word2vec_path` compatibly. 
+   - Set paths (`pretrained_path`, `train_data`, `valid_data`, `test_data`, `word2vec_path`) compatibly. 
    - Choose Tesla P100 for accelerator.
 2. Options
    - Set the variables `TRAIN`, `PRETRAINED`, `TEST`, `INFER` as desired.
