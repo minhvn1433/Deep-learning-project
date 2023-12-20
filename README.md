@@ -4,7 +4,7 @@
    - Download `train.xlsx`, `valid.xlsx` and `test.xlsx`
 
 2. **Open the notebook**:
-   - Click <a href="https://colab.research.google.com/github/minhvn1433/Deep-learning-project/blob/main/main.ipynb" target="_parent"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/></a>
+   - Click `Open in Colab`
 
 3. **Set up GPU acceleration**:
    - Access menu bar
