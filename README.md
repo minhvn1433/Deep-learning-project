@@ -9,7 +9,7 @@
    - Set paths (`pretrained_path`, `train_data`, `valid_data`, `test_data`, `word2vec_path`) compatibly. 
    - Choose Tesla P100 for accelerator.
 2. Options
-   - Set the variables `TRAIN`, `PRETRAINED`, `TEST`, `INFER` as desired.
+   - Set the variables `TRAIN`, `PRETRAINED`, `TEST`, `INFER`  (`infer` is at bottom of the notebook) as desired.
    - Choose "Run all"
 
 ### ...:
